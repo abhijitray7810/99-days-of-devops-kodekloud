@@ -44,7 +44,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application source code
 COPY src/ .
-
+ 
 # Expose port 5001
 EXPOSE 5001
 
