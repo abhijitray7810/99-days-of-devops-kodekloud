@@ -1,5 +1,5 @@
 # Terraform Configuration for EC2 Instance and CloudWatch Alarm
-
+ 
 ## Overview
 
 This Terraform configuration creates an AWS EC2 instance with a CloudWatch alarm to monitor CPU utilization. The alarm triggers when CPU usage exceeds 90% for one consecutive 5-minute period and sends notifications to an existing SNS topic.
