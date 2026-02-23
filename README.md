@@ -1,5 +1,5 @@
 # 🚀 100 Days DevOps Challenge
-
+ 
 This repository documents my **100 Days of DevOps Challenge**, where I practiced real-world DevOps tools, concepts, and troubleshooting scenarios on a daily basis. The journey covers **Linux, Git, Docker, Kubernetes, Jenkins, Ansible, Terraform, and AWS**, progressing from fundamentals to advanced infrastructure automation.
 
 ---
