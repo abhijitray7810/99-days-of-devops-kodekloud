@@ -1,5 +1,5 @@
 # Dockerfile Troubleshooting Guide - App Server 3
-
+ 
 ## Overview
 This guide provides instructions for fixing and building a Docker image on App Server 3 in Stratos DC as per the Nautilus DevOps team requirements.
 
