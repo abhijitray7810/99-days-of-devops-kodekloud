@@ -1,7 +1,7 @@
 # Apache HTTPD Container Setup Guide
 
 ## Overview
-
+ 
 This repository contains the Docker Compose configuration for deploying the Apache HTTP Server (httpd) container on App Server 2 in Stratos DC. The setup hosts static website content provided by the Nautilus application development team.
 
 ## Prerequisites
