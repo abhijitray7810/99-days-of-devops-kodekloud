@@ -5,7 +5,7 @@ This project deploys a containerized PHP blog application with MariaDB database 
 
 ## Architecture
 The application stack consists of two services:
-- **Web Service**: PHP with Apache web server
+- **Web Service**: PHP with Apache web server 
 - **Database Service**: MariaDB database server
 
 ## Prerequisites
