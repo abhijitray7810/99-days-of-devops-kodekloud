@@ -11,7 +11,7 @@ The application stack consists of two services:
 ## Prerequisites
 - Docker installed on App Server 3
 - Docker Compose (either standalone or plugin)
-- Sudo access to the server 
+- Sudo access to the server  
 - Ports 8084 and 3306 available on the host
 
 ## File Structure
