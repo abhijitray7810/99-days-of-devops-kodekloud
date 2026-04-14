@@ -17,7 +17,7 @@ The application stack consists of two services:
 ## File Structure
 ```
 /opt/dba/
-└── docker-compose.yml
+└── docker-compose.yml 
 ```
 
 ## Configuration Details
