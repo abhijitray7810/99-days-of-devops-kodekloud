@@ -1,5 +1,5 @@
 # PHP Blog Application - Docker Compose Deployment
-
+ 
 ## Overview
 This project deploys a containerized PHP blog application with MariaDB database using Docker Compose on App Server 3 in the Stratos Datacenter.
 
