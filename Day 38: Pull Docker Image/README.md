@@ -14,7 +14,7 @@ Pull the `busybox:musl` image and create a new tag `busybox:media` for container
  
 ## Implementation Steps 
 
-### Step 1: Connect to App Server 2  
+### Step 1: Connect to App Server 2   
 ```bash 
 ssh user@app-server-2
 ```
