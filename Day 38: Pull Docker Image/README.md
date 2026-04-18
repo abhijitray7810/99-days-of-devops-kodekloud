@@ -5,7 +5,7 @@ This documentation covers the setup process for the Nautilus project's container
 
 ## Objective
 Pull the `busybox:musl` image and create a new tag `busybox:media` for containerized application feature testing.
-
+ 
 ## Prerequisites
 - Access to App Server 2 in Stratos DC 
 - Docker installed and running on App Server 2
