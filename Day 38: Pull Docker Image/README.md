@@ -10,7 +10,7 @@ Pull the `busybox:musl` image and create a new tag `busybox:media` for container
 - Access to App Server 2 in Stratos DC 
 - Docker installed and running on App Server 2
 - Appropriate user permissions to execute Docker commands
-- Internet connectivity to pull images from Docker Hub 
+- Internet connectivity to pull images from Docker Hub  
 
 ## Implementation Steps
 
