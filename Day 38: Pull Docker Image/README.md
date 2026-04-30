@@ -12,7 +12,7 @@ Pull the `busybox:musl` image and create a new tag `busybox:media` for container
 - Appropriate user permissions to execute Docker commands 
 - Internet connectivity to pull images from Docker Hub  
  
-## Implementation Steps 
+## Implementation Steps  
 
 ### Step 1: Connect to App Server 2   
 ```bash 
