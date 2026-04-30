@@ -17,7 +17,7 @@ Max was facing issues pushing new changes to the remote Gitea repository. The ta
 
 ## Tools Used
 - Linux terminal
-- Git CLI
+- Git CLI 
 - Gitea Web UI
 
 ## Credentials
