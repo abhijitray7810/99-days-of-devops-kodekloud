@@ -11,7 +11,7 @@ Before running this Terraform configuration, ensure you have:
 - **Terraform** installed (version 1.0 or later)
 - **AWS CLI** configured with appropriate credentials
 - **AWS Account** with permissions to create EC2 key pairs
-- **VS Code** (or any text editor) for managing the configuration
+- **VS Code** (or any text editor) for managing the configuration 
 
 ## Configuration Details
 
