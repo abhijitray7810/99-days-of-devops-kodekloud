@@ -10,4 +10,4 @@ The purpose of this documentation is to explain how to restore stashed changes i
 - Restore stashed changes with the identifier `stash@{1}`.
 - Commit the changes with a descriptive message.
 - Push the changes to the origin remote repository.
-```
+``` 
