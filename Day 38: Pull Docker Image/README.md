@@ -2,7 +2,7 @@
 
 ## Project Overview 
 This documentation covers the setup process for the Nautilus project's containerized environment testing. The DevOps team needs to prepare App Server 2 in Stratos DC with a specific busybox image configuration.
-
+ 
 ## Objective
 Pull the `busybox:musl` image and create a new tag `busybox:media` for containerized application feature testing.
  
