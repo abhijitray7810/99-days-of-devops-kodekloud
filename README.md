@@ -4,7 +4,7 @@ This repository documents my **100 Days of DevOps Challenge**, where I practiced
 
 ---
 ## 📅 Challenge Overview 
-
+ 
 * **Duration:** 100 Days  
 * **Goal:** Build strong hands-on DevOps skills through daily tasks 
 * **Approach:** Practical implementation, configuration, debugging, and automation
